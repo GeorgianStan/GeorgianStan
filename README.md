@@ -1,4 +1,4 @@
-## Hi there, I'm [Georgian](website) 👋
+## Hi there, I'm [Georgian][website] 👋
 
 ### I'm a Web Developer, and part-time Writer!
 
