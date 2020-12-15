@@ -20,6 +20,8 @@ Here are some of my most notable open source projects
 
 [![NestJs Microservice Boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=GeorgianStan&repo=nestjs-microservice-boilerplate)](https://github.com/GeorgianStan/nestjs-microservice-boilerplate)
 
+[![Framework for libraries](https://github-readme-stats.vercel.app/api/pin/?username=GeorgianStan&repo=framework-for-building-libraries)](https://github.com/GeorgianStan/framework-for-building-libraries)
+
 [![NestJs Microservice Boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=GeorgianStan&repo=swipe-event-listener)](https://www.npmjs.com/package/swipe-event-listener)
 
 ---
@@ -83,6 +85,7 @@ Here are some of the other languages and tools that I use
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Saving Money on Electricity in Unexpected Ways](https://medium.com/@georgianstan/saving-money-on-electricity-in-unexpected-ways-512e845967e7?source=rss-30badf8c5da------2)
 - [Test Automation Checklist You Should Follow](https://medium.com/@georgianstan/test-automation-checklist-you-should-follow-6ae8bc049e3a?source=rss-30badf8c5da------2)
 - [Detecting Open Source Vulnerabilities in Your IDE](https://itnext.io/detecting-open-source-vulnerabilities-in-your-ide-c3b7c01ba214?source=rss-30badf8c5da------2)
