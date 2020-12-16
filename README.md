@@ -85,7 +85,6 @@ Here are some of the other languages and tools that I use
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Saving Money on Electricity in Unexpected Ways](https://medium.com/@georgianstan/saving-money-on-electricity-in-unexpected-ways-512e845967e7?source=rss-30badf8c5da------2)
 - [Test Automation Checklist You Should Follow](https://medium.com/@georgianstan/test-automation-checklist-you-should-follow-6ae8bc049e3a?source=rss-30badf8c5da------2)
 - [Detecting Open Source Vulnerabilities in Your IDE](https://itnext.io/detecting-open-source-vulnerabilities-in-your-ide-c3b7c01ba214?source=rss-30badf8c5da------2)
