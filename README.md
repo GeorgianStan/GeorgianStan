@@ -22,7 +22,9 @@ Here are some of my most notable open source projects
 
 [![Framework for libraries](https://github-readme-stats.vercel.app/api/pin/?username=GeorgianStan&repo=framework-for-building-libraries)](https://github.com/GeorgianStan/framework-for-building-libraries)
 
-[![NestJs Microservice Boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=GeorgianStan&repo=swipe-event-listener)](https://www.npmjs.com/package/swipe-event-listener)
+[![Swipe Event For Browsers](https://github-readme-stats.vercel.app/api/pin/?username=GeorgianStan&repo=swipe-event-listener)](https://www.npmjs.com/package/swipe-event-listener)
+
+[![Directory utility functions](https://github-readme-stats.vercel.app/api/pin/?username=GeorgianStan&repo=dir-fs-utils)](https://www.npmjs.com/package/dir-fs-utils)
 
 ---
 
