@@ -18,6 +18,8 @@
 
 Here are some of my most notable open source projects
 
+[![Cloud Tenant CLI](https://github-readme-stats.vercel.app/api/pin/?username=CloudTenant&repo=CloudTenant-CLI)](https://github.com/CloudTenant/CloudTenant-CLI)
+
 [![NestJs Microservice Boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=GeorgianStan&repo=nestjs-microservice-boilerplate)](https://github.com/GeorgianStan/nestjs-microservice-boilerplate)
 
 [![Framework for libraries](https://github-readme-stats.vercel.app/api/pin/?username=GeorgianStan&repo=framework-for-building-libraries)](https://github.com/GeorgianStan/framework-for-building-libraries)
