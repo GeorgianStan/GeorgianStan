@@ -30,6 +30,8 @@ Here are some of my most notable open source projects
 
 [![ClimaCell API Wrapper](https://github-readme-stats.vercel.app/api/pin/?username=GeorgianStan&repo=js-climacell-api)](https://www.npmjs.com/package/js-climacell-api)
 
+[![Copy to clipboard](https://github-readme-stats.vercel.app/api/pin/?username=GeorgianStan&repo=my-clipboard)](https://www.npmjs.com/package/my-clipboard)
+
 ---
 
 ## 💻 Languages and Tools:
