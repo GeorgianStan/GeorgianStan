@@ -91,11 +91,11 @@ Here are some of the other languages and tools that I use
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with MongoDB and NestJS](https://itnext.io/getting-started-with-mongodb-and-nestjs-3ac58fb0ad7f?source=rss-30badf8c5da------2)
 - [Why and How to Run Your Development Database With Docker](https://itnext.io/why-and-how-to-run-your-development-database-with-docker-2e0eab13b733?source=rss-30badf8c5da------2)
 - [How to deploy Angular app to an IIS Web server — Complete Setup](https://levelup.gitconnected.com/how-to-deploy-angular-app-to-an-iis-web-server-complete-setup-337997486423?source=rss-30badf8c5da------2)
 - [How to write better conditional expressions](https://itnext.io/how-to-write-better-conditional-expressions-712c3dd014db?source=rss-30badf8c5da------2)
 - [Infinite Scrolling vs Virtual Scrolling in Angular](https://javascript.plainenglish.io/infinite-scrolling-vs-virtual-scrolling-in-angular-57f6e60f1285?source=rss-30badf8c5da------2)
-- [How to run your scripts on startup in Windows](https://itnext.io/how-to-run-your-scripts-on-startup-in-windows-8ae62a625f6c?source=rss-30badf8c5da------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
