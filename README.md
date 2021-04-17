@@ -91,6 +91,7 @@ Here are some of the other languages and tools that I use
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Integrate Object Storage into your Web Application](https://javascript.plainenglish.io/how-to-integrate-object-storage-for-your-web-application-f0fc0d0de8d3?source=rss-30badf8c5da------2)
 - [CSS Alignment Made Simple](https://itnext.io/css-alignment-made-simple-41994049afaf?source=rss-30badf8c5da------2)
 - [How to Build a NodeJS Wrapper for a Weather API](https://itnext.io/how-to-build-a-nodejs-wrapper-for-a-weather-api-28404caedfdb?source=rss-30badf8c5da------2)
 - [Getting Started with MongoDB and NestJS](https://itnext.io/getting-started-with-mongodb-and-nestjs-3ac58fb0ad7f?source=rss-30badf8c5da------2)
