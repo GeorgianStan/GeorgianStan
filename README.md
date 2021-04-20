@@ -18,6 +18,8 @@
 
 Here are some of my most notable open source projects
 
+[![Cloud Tenant CLI](https://github-readme-stats.vercel.app/api/pin/?username=CloudTenant&repo=CloudTenant-CLI)](https://github.com/CloudTenant/CloudTenant-CLI)
+
 [![NestJs Microservice Boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=GeorgianStan&repo=nestjs-microservice-boilerplate)](https://github.com/GeorgianStan/nestjs-microservice-boilerplate)
 
 [![Framework for libraries](https://github-readme-stats.vercel.app/api/pin/?username=GeorgianStan&repo=framework-for-building-libraries)](https://github.com/GeorgianStan/framework-for-building-libraries)
@@ -91,14 +93,13 @@ Here are some of the other languages and tools that I use
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Singleton Implementation](https://medium.com/@georgianstan/singleton-implementation-7602e83008fa?source=rss-30badf8c5da------2)
-- [Saving Money on Electricity in Unexpected Ways](https://medium.com/@georgianstan/saving-money-on-electricity-in-unexpected-ways-512e845967e7?source=rss-30badf8c5da------2)
-- [Test Automation Checklist You Should Follow](https://medium.com/@georgianstan/test-automation-checklist-you-should-follow-6ae8bc049e3a?source=rss-30badf8c5da------2)
-- [Detecting Open Source Vulnerabilities in Your IDE](https://itnext.io/detecting-open-source-vulnerabilities-in-your-ide-c3b7c01ba214?source=rss-30badf8c5da------2)
-- [Top Tools That Can Help You as a Web Developer](https://itnext.io/top-tools-that-can-help-you-as-a-web-developer-30705c62455c?source=rss-30badf8c5da------2)
-- [All You Need to Know About ActiveMQ](https://itnext.io/all-you-need-to-know-about-activemq-76edb977e6a?source=rss-30badf8c5da------2)
-- [5 Ways to Improve Your Developer Team’s Code Quality](https://itnext.io/5-ways-to-improve-your-developer-teams-code-quality-db33f2430abf?source=rss-30badf8c5da------2)
+- [How to Integrate Object Storage into your Web Application](https://javascript.plainenglish.io/how-to-integrate-object-storage-for-your-web-application-f0fc0d0de8d3?source=rss-30badf8c5da------2)
+- [CSS Alignment Made Simple](https://itnext.io/css-alignment-made-simple-41994049afaf?source=rss-30badf8c5da------2)
+- [How to Build a NodeJS Wrapper for a Weather API](https://itnext.io/how-to-build-a-nodejs-wrapper-for-a-weather-api-28404caedfdb?source=rss-30badf8c5da------2)
+- [Getting Started with MongoDB and NestJS](https://itnext.io/getting-started-with-mongodb-and-nestjs-3ac58fb0ad7f?source=rss-30badf8c5da------2)
+- [Why and How to Run Your Development Database With Docker](https://itnext.io/why-and-how-to-run-your-development-database-with-docker-2e0eab13b733?source=rss-30badf8c5da------2)
+- [How to deploy Angular app to an IIS Web server — Complete Setup](https://levelup.gitconnected.com/how-to-deploy-angular-app-to-an-iis-web-server-complete-setup-337997486423?source=rss-30badf8c5da------2)
+- [How to write better conditional expressions](https://itnext.io/how-to-write-better-conditional-expressions-712c3dd014db?source=rss-30badf8c5da------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
