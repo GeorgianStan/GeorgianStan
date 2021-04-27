@@ -93,13 +93,13 @@ Here are some of the other languages and tools that I use
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Download Files With JavaScript](https://itnext.io/how-to-download-files-with-javascript-d5a69b749896?source=rss-30badf8c5da------2)
 - [How to Create a Custom Right-Click Menu With JavaScript](https://itnext.io/how-to-create-a-custom-right-click-menu-with-javascript-9c368bb58724?source=rss-30badf8c5da------2)
 - [How to Integrate Object Storage into your Web Application](https://javascript.plainenglish.io/how-to-integrate-object-storage-for-your-web-application-f0fc0d0de8d3?source=rss-30badf8c5da------2)
 - [CSS Alignment Made Simple](https://itnext.io/css-alignment-made-simple-41994049afaf?source=rss-30badf8c5da------2)
 - [How to Build a NodeJS Wrapper for a Weather API](https://itnext.io/how-to-build-a-nodejs-wrapper-for-a-weather-api-28404caedfdb?source=rss-30badf8c5da------2)
 - [Getting Started with MongoDB and NestJS](https://itnext.io/getting-started-with-mongodb-and-nestjs-3ac58fb0ad7f?source=rss-30badf8c5da------2)
 - [Why and How to Run Your Development Database With Docker](https://itnext.io/why-and-how-to-run-your-development-database-with-docker-2e0eab13b733?source=rss-30badf8c5da------2)
-- [How to deploy Angular app to an IIS Web server — Complete Setup](https://levelup.gitconnected.com/how-to-deploy-angular-app-to-an-iis-web-server-complete-setup-337997486423?source=rss-30badf8c5da------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
