@@ -18,6 +18,8 @@
 
 Here are some of my most notable open source projects
 
+[![Cloud Tenant CLI](https://github-readme-stats.vercel.app/api/pin/?username=GeorgianStan&repo=romania-uat-api)](https://github.com/GeorgianStan/romania-uat-api)
+
 [![Cloud Tenant CLI](https://github-readme-stats.vercel.app/api/pin/?username=CloudTenant&repo=CloudTenant-CLI)](https://github.com/CloudTenant/CloudTenant-CLI)
 
 [![NestJs Microservice Boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=GeorgianStan&repo=nestjs-microservice-boilerplate)](https://github.com/GeorgianStan/nestjs-microservice-boilerplate)
@@ -93,6 +95,7 @@ Here are some of the other languages and tools that I use
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [How to Integrate Object Storage into your Web Application](https://javascript.plainenglish.io/how-to-integrate-object-storage-for-your-web-application-f0fc0d0de8d3?source=rss-30badf8c5da------2)
 - [CSS Alignment Made Simple](https://itnext.io/css-alignment-made-simple-41994049afaf?source=rss-30badf8c5da------2)
 - [How to Build a NodeJS Wrapper for a Weather API](https://itnext.io/how-to-build-a-nodejs-wrapper-for-a-weather-api-28404caedfdb?source=rss-30badf8c5da------2)
