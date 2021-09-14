@@ -95,7 +95,6 @@ Here are some of the other languages and tools that I use
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Running Automated Tests for a Server-Based Application](https://javascript.plainenglish.io/running-automated-tests-for-a-server-based-application-487ba0b42536?source=rss-30badf8c5da------2)
 - [How to Add a New User With SSH to Your VPS](https://itnext.io/how-to-add-a-new-user-with-ssh-to-your-vps-f44276c02b4b?source=rss-30badf8c5da------2)
 - [How to Download Files With JavaScript](https://itnext.io/how-to-download-files-with-javascript-d5a69b749896?source=rss-30badf8c5da------2)
